@@ -3,12 +3,12 @@
  * @Descripttion: 
  * @Date: 2022-03-15 15:41:51
  * @LastEditors: codesides
- * @LastEditTime: 2022-03-17 11:14:35
+ * @LastEditTime: 2022-03-29 17:13:08
  * @FilePath: /nuxt3/components/Asome.vue
 -->
 <template>
   <div>
-    <button @click="change">change</button>
+    <button @click="change">changesss</button>
     <iframe
       ref="iframe"
       src="http://10.80.102.112:8080/#?main_id=122278"
